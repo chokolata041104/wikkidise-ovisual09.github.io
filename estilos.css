@@ -1,0 +1,65 @@
+@charset "utf-8";
+.contenedor {
+	/* [disabled]background-color: #8A8A8A; */
+	height: 1000px;
+	width: 1210x;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 0px;
+}
+.titular {
+	height: 50px;
+	width: 1210px;
+	color: #201E1F;
+	background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 99.17%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 99.17%);
+	background-image: -o-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 99.17%);
+	background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 99.17%);
+	float: left;
+	border-radius: 5px;
+}
+.BUSCAR {
+	background-color: #9D9D9D;
+	height: 50px;
+	width: 400px;
+	/* [disabled]border-width: thin; */
+	/* [disabled]border-style: none; */
+	position: fixed;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.valor {
+	background-color: #201E1F;
+	height: 950px;
+	width: 250px;
+	border-radius: 10px;
+	padding-right: 5px;
+	padding-top: 0px;
+	color: #FFFAFA;
+	text-align: center;
+	text-indent: 5px;
+	float: right;
+}
+.valor2 {
+	background-color: #50B2C0;
+	height: 950px;
+	width: 950px;
+	/* [disabled]background-repeat: repeat-x; */
+	text-indent: 5px;
+	text-align: center;
+	float: left;
+}
+.pie de pagina {
+	/* [disabled]background-color: #000000; */
+	height: 350px;
+	width: 1210px;
+	padding-top: 5px;
+	text-indent: 0px;
+}
+.menu {
+	background-color: #D3393B;
+	height: 35px;
+	width: 1390px;
+}
